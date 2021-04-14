@@ -8,4 +8,4 @@ The purpose of this project is to help the client (Louise) raise money for a pla
 
 [Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
 
-[Outcomes vs Goals](resources/Outcomes_vs_Goals.png?raw=true "Outcomes_vs_Goals)
+[Outcomes vs Goals](resources/Outcomes_vs_Goals.png?raw=true "Outcomes_vs_Goals")
