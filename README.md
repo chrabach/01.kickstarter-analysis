@@ -8,7 +8,7 @@ The purpose of this project is to help the client (Louise) raise money for a pla
 
 
 
-##Analysis and Challenges
+## Analysis and Challenges
 
 The analysis focused on Kickstarter date from 2009 – 2017.  The data was international is scope, spread across 21 different countries, though the bulk (94%) of the data was in English speaking United States, Great Britain, Canada, Australia.  Further, the data spanned multiple Categories, from the arts through technology.
 
@@ -43,7 +43,7 @@ The second insight is that pledges in unsuccessful campaigns are one tenth the s
 
 
 
-##Results
+## Results
 
 
 ### Analysis of Outcomes Based on Launch Date
@@ -73,4 +73,5 @@ What are some limitations of this dataset?
 One limitation is lack of region specificity.  A high goal in NY is not the same as a high goal in AL.  Regional inflation rates are likely embedded in the data set, and should be adjusted for.  
 
 What are some other possible tables and/or graphs that we could create?
+
 It would be interesting to see total failures as a share of total launched during a particular period.
