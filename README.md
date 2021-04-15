@@ -12,18 +12,18 @@ The purpose of this project is to help the client (Louise) raise money for a pla
 
 The analysis focused on Kickstarter date from 2009 – 2017.  The data was international is scope, spread across 21 different countries, though the bulk (94%) of the data was in English speaking United States, Great Britain, Canada, Australia.  Further, the data spanned multiple Categories, from the arts through technology.
 
-![Parent Category Outcomes](other_resources/Parent Category Outcomes.png)
+![Parent Category Outcomes](other_resources/Parent_Category_Outcomes.png)
 
-[Parent Category Outcomes](other_resources/Parent Category Outcomes.png?raw=true "Outcomes_vs_Goals")
+[Parent Category Outcomes](other_resources/Parent_Category_Outcomes.png?raw=true "Outcomes_vs_Goals")
 Exhibit 1: Parent Category Outcomes
 
 Exhibit 1 charts all categories’ success rates.  It illustrates that the ‘theatre’ category is the most prevalent Kickstarter category, followed distantly by ‘music’.  Theatre success rates are relatively high, though not as high as that of music.
 
 
 
-![Sub Category Outcomes](other_resources/ SubCategory Outcomes.png)
+![Sub Category Outcomes](other_resources/SubCategory Outcomes.png)
 
-[Sub Category Outcomes](other_resources/ SubCategory Outcomes.png?raw=true "Outcomes_vs_Goals")
+[Sub Category Outcomes](other_resources/SubCategory Outcomes.png?raw=true "Outcomes_vs_Goals")
 Exhibit 2: SubCategory Outcomes for the Theatre Category
 
 
@@ -51,10 +51,10 @@ The second insight is that pledges in unsuccessful campaigns are one tenth the s
 ### Analysis of Outcomes Based on Launch Date
 What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 
-![Theatre Outcomes vs Launch](resources/ Theatre_Outcomes_vs_Launch.png)
+![Theatre Outcomes vs Launch](resources/Theatre_Outcomes_vs_Launch.png)
 
-[Theatre Outcomes vs Launch](resources/ Theatre_Outcomes_vs_Launch.png?raw=true "Outcomes_vs_Goals")
-Exhibit 4: Theature Outcomes vs Launch
+[Theatre Outcomes vs Launch](resources/Theatre_Outcomes_vs_Launch.png?raw=true "Outcomes_vs_Goals")
+Exhibit 4: Theatre Outcomes vs Launch
 Most theatre campaigns are run in May, as are most successful campaigns, with modest deterioration of success rates through June and July.  Fall and Winter should be avoided.  In particular, December exhibits a much lower success rate and higher failure rate.
 
 ### Analysis of Outcomes Based on Goals
@@ -62,9 +62,9 @@ What can you conclude about the Outcomes based on Goals?
 Outcomes_vs_Goals.png
 
 
-![Outcomes vs Goals](resources/ Outcomes_vs_Goals.png)
+![Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
 
-[Outcomes vs Goals](resources/ Outcomes_vs_Goals.png?raw=true "Outcomes_vs_Goals")
+[Outcomes vs Goals](resources/Outcomes_vs_Goals.png?raw=true "Outcomes_vs_Goals")
 Exhibit 5: Outcomes Based on Goal
 
 The best probability of success is in campaigns of less than $1000, but absent that, less than $5000.  While campaigns of larger magnitudes can be successful, the failure rate is commensurately increased.  A campaign of $12,000 is risky, as historical success rates are similar to historical fail rates.
