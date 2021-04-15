@@ -30,7 +30,7 @@ Exhibit 2 delves deeper into theatre category, illustrating success and failure 
 
 
 
-![Descriptive Statistics](other_resources/Descriptive Statistics.png)
+![Descriptive Statistics](other_resources/Descriptive_Statistics.png)
 
 [Exhibit 3: Descriptive Statistics](other_resources/Descriptive_Statistics.png?raw=true "Outcomes_vs_Goals")
 
