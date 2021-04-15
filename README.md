@@ -23,7 +23,7 @@ Exhibit 1 charts all categories’ success rates.  It illustrates that the ‘th
 ![Sub Category Outcomes](other_resources/SubCategory_Outcomes.png)
 
 [Exhibit 2: Sub Category Outcomes](other_resources/SubCategory_Outcomes.png?raw=true "Outcomes_vs_Goals")
-SubCategory Outcomes for the Theatre Category
+
 
 
 Exhibit 2 delves deeper into theatre category, illustrating success and failure rates across the subcategories.  As shown, ‘plays’ are the most prevalent Kickstarter campaign within the theatre category, and exhibits a relatively good success rate.
@@ -32,8 +32,7 @@ Exhibit 2 delves deeper into theatre category, illustrating success and failure 
 
 ![Descriptive Statistics](other_resources/ Descriptive Statistics.png)
 
-[Exhibit 3: Descriptive Statistics](other_resources/ Descriptive Statistics.png?raw=true "Outcomes_vs_Goals")
-Exhibit 3: Descriptive Statistics
+[Exhibit 3: Descriptive Statistics](other_resources/Descriptive_Statistics.png?raw=true "Outcomes_vs_Goals")
 
 Exhibit 3 shows statistics directly relevant to the plays subcategories.  The distribution is right skewed, as evidenced by the upper quartiles all similar to the mean. 
 
@@ -53,7 +52,6 @@ What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 ![Theatre Outcomes vs Launch](resources/Theatre_Outcomes_vs_Launch.png)
 
 [Exhibit 4: Theatre Outcomes vs Launch](resources/Theatre_Outcomes_vs_Launch.png?raw=true "Outcomes_vs_Goals")
-Theatre Outcomes vs Launch
 Most theatre campaigns are run in May, as are most successful campaigns, with modest deterioration of success rates through June and July.  Fall and Winter should be avoided.  In particular, December exhibits a much lower success rate and higher failure rate.
 
 ### Analysis of Outcomes Based on Goals
