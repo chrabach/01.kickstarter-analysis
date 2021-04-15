@@ -3,14 +3,14 @@ first excel project for Columbia
 
 
 ## Overview of the Project
-The purpose of this project is to help the client (Louise) raise money for a play called Fever that she would like to produce.  Her expected budget is $10,000, and she intends to raise this capital via a Kickstarter campaign.  She would like to use data analysis on prior Kickstarter campaigns to understand how best to execute her campaign in terms of timing, target funding, etc.  She would like to extract best practices from successful campaigns, and apply them to her own.
+The purpose of this project is to help the client (Louise) raise money for a play called Fever that she would like to produce.  Her expected budget is $12,000, and she intends to raise this capital via a Kickstarter campaign.  She would like to use data analysis on prior Kickstarter campaigns to understand how best to execute her campaign in terms of timing, target funding, etc.  She would like to extract best practices from successful campaigns, and apply them to her own.
 
 
 
 
 ## Analysis and Challenges
 
-The analysis focused on Kickstarter date from 2009 – 2017.  The data was international is scope, spread across 21 different countries, though the bulk (94%) of the data was in English speaking United States, Great Britain, Canada, Australia.  Further, the data spanned multiple Categories, from the arts through technology.
+The analysis focused on Kickstarter data from 2009 – 2017.  The data was international is scope, spread across 21 different countries, though the bulk (94%) of the data was in English speaking United States, Great Britain, Canada, Australia.  Further, the data spanned multiple categories, from the arts through technology.
 
 ![Parent Category Outcomes](other_resources/Parent_Category_Outcomes.png)
 
@@ -34,7 +34,7 @@ Exhibit 2 delves deeper into theatre category, illustrating success and failure 
 
 [Exhibit 3: Descriptive Statistics](other_resources/Descriptive_Statistics.png?raw=true "Outcomes_vs_Goals")
 
-Exhibit 3 shows statistics directly relevant to the plays subcategories.  The distribution is right skewed, as evidenced by the upper quartiles all similar to the mean. 
+Exhibit 3 shows statistics directly relevant to the plays subcategory.  The distribution is right skewed, as evidenced by the upper quartiles all similar to the mean. 
 
 The first insight to be gleaned from this data is that failed campaigns have goals of roughly double those of successful campaigns, and those failed campaigns are of roughly the same size as the proposed budget.  Unsuccessful campaigns are to some extent victims of overreach: the goals are too high.
 
@@ -56,7 +56,6 @@ Most theatre campaigns are run in May, as are most successful campaigns, with mo
 
 ### Analysis of Outcomes Based on Goals
 What can you conclude about the Outcomes based on Goals?
-Outcomes_vs_Goals.png
 
 
 ![Outcomes vs Goals](resources/Outcomes_vs_Goals.png)
