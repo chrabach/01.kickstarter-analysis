@@ -10,6 +10,8 @@ The purpose of this project is to help the client (Louise) raise money for a pla
 
 ## Analysis and Challenges
 
+# Analysis
+
 The analysis focused on Kickstarter data from 2009 – 2017.  The data was international is scope, spread across 21 different countries, though the bulk (94%) of the data was in English speaking United States, Great Britain, Canada, Australia.  Further, the data spanned multiple categories, from the arts through technology.
 
 ![Parent Category Outcomes](other_resources/Parent_Category_Outcomes.png)
@@ -41,6 +43,10 @@ The first insight to be gleaned from this data is that failed campaigns have goa
 The second insight is that pledges in unsuccessful campaigns are one tenth the size of successful campaigns.  This proves that the only reason for failure is not overreach in goals, but rather something else is happening.
 
 
+# Challenges
+
+Possible challenges that might be encountered in the analysis is data integrity.  It is considered best practice to utilize cross checks in subtotalled data, but the problem statments preclude such practice.  $tagnation
+
 
 
 ## Results
@@ -62,14 +68,18 @@ What can you conclude about the Outcomes based on Goals?
 
 [Exhibit 5: Outcomes based on Goals](resources/Outcomes_vs_Goals.png?raw=true "Outcomes_vs_Goals")
 
-The best probability of success is in campaigns of less than $1000, but absent that, less than $5000.  While campaigns of larger magnitudes can be successful, the failure rate is commensurately increased.  A campaign of $12,000 is risky, as historical success rates are similar to historical fail rates.
+The best probability of success is in campaigns of less than $1,000, but absent that, less than $5,000.  While campaigns of larger magnitudes can be successful, the failure rate is commensurately increased.  A campaign of $12,000 is risky, as historical success rates are similar to historical fail rates.
 
 
 
+# Limitations of the dataset
 
-What are some limitations of this dataset?
+One limitation is lack of region specificity.  A high goal in New York is not the same as a high goal in Alabama.  Regional inflation rates are likely embedded in the data set, and should be adjusted for.  
 
-One limitation is lack of region specificity.  A high goal in NY is not the same as a high goal in AL.  Regional inflation rates are likely embedded in the data set, and should be adjusted for.  
+The second limitation of the dataset is temporal comparability.  Only the United States data goes back as far as 2009.  In other countries, the data is very sparse prior to 2014.    
+
+
+
 
 What are some other possible tables and/or graphs that we could create?
 
