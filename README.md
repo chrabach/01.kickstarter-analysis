@@ -72,7 +72,7 @@ The best probability of success is in campaigns of less than $1,000, but absent 
 
 
 
-# Limitations of the dataset
+### Limitations of the dataset
 
 One limitation is lack of region specificity.  A high goal in New York is not the same as a high goal in Alabama.  Regional inflation rates are likely embedded in the data set, and should be adjusted for.  
 
@@ -80,7 +80,6 @@ The second limitation of the dataset is temporal comparability.  Only the United
 
 
 
+### Possible other tables or graphs that we could create?
 
-What are some other possible tables and/or graphs that we could create?
-
-It would be interesting to see total failures as a share of total launched during a particular period.
+It would be interesting to see total failures as a share of total launched during a particular period.  This would highlight not only absolute value of success rates, but how the concommitant failure rate relates.
