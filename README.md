@@ -10,9 +10,9 @@ The purpose of this project is to help the client (Louise) raise money for a pla
 
 ## Analysis and Challenges
 
-# Analysis
+### Analysis
 
-The analysis focused on Kickstarter data from 2009 – 2017.  The data was international is scope, spread across 21 different countries, though the bulk (94%) of the data was in English speaking United States, Great Britain, Canada, Australia.  Further, the data spanned multiple categories, from the arts through technology.
+The analysis focused on Kickstarter data from 2009 – 2017.  The data was international is scope, spanning 21 countries, though the bulk (94%) of the data was in English speaking United States, Great Britain, Canada, Australia.  Further, the data spanned multiple categories, from the arts through technology.
 
 ![Parent Category Outcomes](other_resources/Parent_Category_Outcomes.png)
 
@@ -43,9 +43,9 @@ The first insight to be gleaned from this data is that failed campaigns have goa
 The second insight is that pledges in unsuccessful campaigns are one tenth the size of successful campaigns.  This proves that the only reason for failure is not overreach in goals, but rather something else is happening.
 
 
-# Challenges
+### Challenges
 
-Possible challenges that might be encountered in the analysis is data integrity.  It is considered best practice to utilize cross checks in subtotalled data, but the problem statments preclude such practice.  $tagnation
+Possible challenges that might be encountered in the analysis is data integrity.  It is considered best practice to utilize cross checks in subtotalled data, but the problem statements preclude such practice.
 
 
 
