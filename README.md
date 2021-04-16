@@ -12,7 +12,7 @@ The purpose of this project is to help the client (Louise) raise money for a pla
 
 ### Analysis
 
-The analysis focused on Kickstarter data from 2009 – 2017.  The data was international is scope, spanning 21 countries, though the bulk (94%) of the data was in English speaking United States, Great Britain, Canada, Australia.  Further, the data spanned multiple categories, from the arts through technology.
+The analysis focused on Kickstarter data from 2009 – 2017.  The data was international is scope, spanning 21 countries, though the bulk (94%) of the data was in English speaking United States, Great Britain, Canada, and Australia.  Further, the data spanned multiple categories, from the arts through technology.
 
 ![Parent Category Outcomes](other_resources/Parent_Category_Outcomes.png)
 
@@ -68,7 +68,7 @@ What can you conclude about the Outcomes based on Goals?
 
 [Exhibit 5: Outcomes based on Goals](resources/Outcomes_vs_Goals.png?raw=true "Outcomes_vs_Goals")
 
-The best probability of success is in campaigns of less than $1,000, but absent that, less than $5,000.  While campaigns of larger magnitudes can be successful, the failure rate is commensurately increased.  A campaign of $12,000 is risky, as historical success rates are similar to historical fail rates.
+The best probability of success is in campaigns of less than $5,000.  While campaigns of larger magnitudes can be successful, the failure rate is commensurately increased.  A campaign of $12,000 is risky, as historical success rates are similar to historical fail rates.
 
 
 
@@ -82,4 +82,4 @@ The second limitation of the dataset is temporal comparability.  Only the United
 
 ### Possible other tables or graphs that we could create?
 
-It would be interesting to see total failures as a share of total launched during a particular period.  This would highlight not only absolute value of success rates, but how the concommitant failure rate relates.
+It would be interesting to see total failures as a share of total launched during a particular period.  This would highlight not only absolute value of success rates, but how the concomitant failure rate relates.
