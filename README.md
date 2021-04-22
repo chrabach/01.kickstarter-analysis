@@ -18,7 +18,7 @@ The analysis focused on Kickstarter data from 2009 – 2017.  The data was inter
 
 [Exhibit 1: Parent Category Outcomes](other_resources/Parent_Category_Outcomes.png?raw=true "Parent Category Outcomes")
 
-Exhibit 1 charts all categories’ success rates.  It illustrates that the ‘theatre’ category is the most prevalent Kickstarter category, followed distantly by ‘music’.  Theatre success rates are relatively high, though not as high as that of music.
+Exhibit 1 charts all categories’ success rates.  It illustrates that the ‘theatre’ category is the most prevalent Kickstarter category, followed distantly by ‘music’.  Theatre success rates are relatively high, though not as high as those of music.
 
 
 
